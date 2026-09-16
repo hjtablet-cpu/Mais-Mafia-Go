@@ -12,3 +12,5 @@ Funktionen:
 - keine Internetberechtigung
 
 Die APK wird automatisch mit GitHub Actions gebaut.
+
+Build-Trigger: aktiv.
